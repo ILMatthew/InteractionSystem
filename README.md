@@ -11,4 +11,5 @@ This are simple objects that get created, execute their logic and then destroyed
 They have callback for both successfull and unsuccefull interaction to allow characters/pawn to execute custom logic (like animations) based on the result.
 Creating new interactions is as simple as creating a new blueprint derived from BP_Interaction and overriding the CustomCheck and CustomLogic functions.
 
-![InteractionSystemExemple](https://github.com/ILMatthew/MyPlugins/assets/46683546/3e38cfe7-7d30-47cd-9b5c-03cafc65a124)
+
+![InteractionSystemExemple](https://github.com/ILMatthew/InteractionSystem/assets/46683546/8859197c-d71c-476a-bf1e-7a858471f9fd)
